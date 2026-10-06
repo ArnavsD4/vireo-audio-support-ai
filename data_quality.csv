@@ -1,0 +1,9 @@
+check,value
+Tickets in stated analysis window,11641
+Tickets before 2025-01-01 in source,139
+Tickets after 2026-06-30 in source,0
+Missing transfer values,3913
+Missing CSAT values,6353
+Missing refund amount,9760
+Missing order_id,3969
+Unresolved/pending/open tickets in window,577

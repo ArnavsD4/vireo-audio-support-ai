@@ -1,0 +1,264 @@
+ticket_id,existing_category,ai_category,ai_confidence,customer_message,agent_notes,assigned_team,channel,reviewed_category,review_notes
+TK-252598,App & Firmware,App & Firmware,0.8721661662455578,"product: the neckband
+order: vr894037
+purchased: march 21
+issue: can't get past the loading screen in the app
+tried: reinstalled the app
+expected: resolution","re: app crash on device page | checked app version -> bug logged, workaround shared -SM",Chat Frontline,chat,App & Firmware,App loading screen/app crash; app version checked and bug logged.
+TK-251198,Account & Login,Account & Login,0.957186571802331,"not receiving otp to login
+please advise",Cust contacted re OTP not received. Checked OTP logs. Account unlocked. ~Ramesh,Chat Frontline,social,Account & Login,OTP not received for login; OTP logs checked and account access was restored.
+TK-254073,Other,Audio Quality,0.7470563176496878,"Product: Pulse2
+Order: VR895106
+Purchased: March 21
+Issue: there is a frying sound in the background of every song
+Tried: tried different apps
+Expected: replacement","ticket raised for static noise in audio. checked with different source. fw update, cx to monitor. will monitor.",Email Frontline,email,Audio Quality,Frying/static noise in audio; issue confirmed across different audio sources.
+TK-246046,Other,Billing & Payments,0.4146621246566377,"Hi Vireo support, I bought the Pulse 2 earbuds on 13-10-2025.  UPI shows success, your app shows nothing. I want a replacement. Thanks & regards, Sukhwinder",rfnd processed to source. Issue: amount deducted without ord. Asked for UTR.,Chat Frontline,chat,Billing & Payments,Payment was deducted but no order was created; refund was processed to the source.
+TK-245558,Other,Other,0.9126568344824796,"Namaste, Order VR897403 (the Nexa 2).  Ordered the wrong colour, don't ship it. I tried cancel button, greyed out. Nothing changed. I want my money back. Awaiting response,","cx reported cancel order. cancelled before dispatch. cancelled, rfnd initiated. closing.",Email Frontline,email,Returns & Refunds,Customer wanted to cancel an order before dispatch and receive a refund; cancellation and refund were initiated.
+TK-245071,Charging & Battery,Charging & Battery,0.7684076240410952,"Hello Vireo, Bought the Pulse buds around 10/08 from Amazon.  I have to charge it twice a day now, it used to last days. I updated the app. Nothing changed. Please resolve asap.",battery draining fast | chk fw 2.3.5 -> escalated to warranty -SM,Chat Frontline,chat,Charging & Battery,Battery is draining rapidly; firmware was checked and the case was escalated to warranty.
+TK-247996,Connectivity,Connectivity,0.7742426588737478,[IVR transcript] hello it connects for a second & ten vaniishes frmo teh device list hello??,"1. Unable to pair w/ phone
+2. Checked phone OS version
+3. Re-pair successful, rslvd on chat -NP",Voice Frontline,voice,Connectivity,Device connects briefly and disappears; phone OS checked and re-pairing resolved the issue.
+TK-245340,Returns & Refunds,Returns & Refunds,0.3424322286324431,"Dear Sir/Madam,
+
+I am writing with reference to my order of Pulse2 (VR889103) placed on 15-09-2025. Received the wrogn item. I have rechecked my order. I reqest you to process a refund to my originla payment method.
+
+Sincerely,
+Pooaj Chatterjee",re: wrong item delivered | raised w/ warehouse -> refund of rs 6998 initiated to source (SOP 4.2) [closed],Returns Desk,email,Returns & Refunds,Wrong item received; refund to the original payment method was initiated.
+TK-240536,Other,Other,0.5895492336198173,Bought my Arc around 27 Jan from vireo.in.  Update my shipping address. I tried editing in app. Nothing changed. Need this sorted this week. Thanks & regards Bhavna,done //SIM,Email Frontline,email,Delivery & Shipping,Customer needed to update the shipping address; this is a delivery/address-management issue.
+TK-250645,Connectivity,Connectivity,0.5052513088612861,the app finds the speaker and then gives up at the network step - VR882992,"1. Wifi setup failing
+2. chk app version
+3. Replacement raised, RMA shared w/ cx ~Rohan",Chat Frontline,chat,Connectivity,Speaker is found but Wi-Fi setup fails; app version checked and replacement raised.
+TK-244830,Product Enquiry,Product Enquiry,0.6293300817575421,BOUGHT STRATA 2 AROUND 09/09 FROM AMAZON. Does Strata 2 work with iPhone. Please resolve asap.,as discussed //SNE,Chat Frontline,social,Product Enquiry,Pre-sales compatibility question about using Strata 2 with an iPhone.
+TK-253883,Connectivity,App & Firmware,0.6642883466015267,"Product: Pulse 2
+Order: VR903923
+Purchased: April 13
+Issue: update failed and now it won't turn on
+Tried: restarted the app
+Expected: resolution","1. firmware update failed
+2. walked through recovery mode
+3. replacement raised (bricked)",Email Frontline,email,App & Firmware,Firmware update failed and device became unusable; recovery attempted and replacement raised.
+TK-244678,Audio Quality,Connectivity,0.5403068681666515,"random disconnects during calls, vr909365",customer states intermittent disconnects. checked fw 2.9.11. fw update resolved.,Chat Frontline,chat,Connectivity,Intermittent disconnects during calls; firmware update resolved the issue.
+TK-247028,Product Enquiry,Billing & Payments,0.4798125733834862,"hii
+your ad said 20% off and the cart says full price
+pluse 2
+pls reply","coupon not applied | checked cart eligibility -> advised coupon terms, resolved | xfer returns desk ~Pranav",Chat Frontline,chat,Billing & Payments,Discount/coupon was not applied at checkout; cart eligibility and coupon terms were checked.
+TK-245503,Other,Billing & Payments,0.6142324274863328,"Not what I expected from Vireo.  BOUGHT AIRLITE EARBUDS AROUND 15/09 FROM FLIPKART. pid via UPI, amount deducted, no order confirmation. I already checked bank statement. Escalate this to someone senior.",Order manually created. Issue: failed order after payment. Asked for UTR. //SNE,Chat Frontline,chat,Billing & Payments,Payment succeeded but order confirmation was missing; order was manually created.
+TK-254183,Audio Quality,Audio Quality,0.80914578175956,"team,
+riht earbud completely silent
+bahut pareshan hu
+the pulse buds
+??",Reset rslvd. Issue: single side audio only. Walked through reset.,Chat Frontline,chat,Audio Quality,Right earbud is completely silent; reset resolved the single-side audio issue.
+TK-252745,Charging & Battery,Charging & Battery,0.8817330279897504,the charging case is not charging. i want my money back,"Advised port cleaning, resolved. Issue: charging case dead. Confirmed case LED dead.",Voice Frontline,voice,Charging & Battery,Charging case is not charging; case LED was checked and the issue was resolved.
+TK-252883,App & Firmware,App & Firmware,0.9107464353722742,app crashes when i open device settings.  vr909980,"Ticket raised for app not opening. Known issue on Android 14 - bug logged. Bug logged, workaround shared. ~Ramesh",Chat Frontline,social,App & Firmware,App crashes when opening device settings; known app issue was logged and workaround shared.
+TK-254254,Billing & Payments,Billing & Payments,0.607402861545119,"[IVR transcript] This is very disappointing. my Nexa 2 watch purchased around Diwali, order VR888295. need GST invoice for my order. I already checked orders page. Fix this or I am posting on twitter.",invoice emailed. issue: invoice not downloading. updated gstin on ord. ~Megha,Billing,voice,Billing & Payments,GST invoice was not downloading; GSTIN was updated and invoice was emailed.
+TK-250386,App & Firmware,App & Firmware,0.8482639524451678,Not acceptable at this price. Ordered my Pulse last month. firmware update is stuck at 89%. I already kept it in the case. Fix this or I am posting on twitter,cust contacted re fw update stuck. walked through recovery mode. update completed after retry. cx satisfied on chat.,Email Frontline,email,App & Firmware,Firmware update stuck at 89%; recovery/retry completed the update successfully.
+TK-242487,Delivery & Shipping,Returns & Refunds,0.4011596218007114,"the app said pickp today, thhat was on May 08",Ticket raised for pickup not done. Re-raised pickup with crr. rfnd of Rs 370 initiated to source. Will monitor. (SOP 3.1) ~Imran,Logistics,social,Returns & Refunds,Reverse pickup was not completed; pickup was re-raised and refund initiated.
+TK-246379,Connectivity,App & Firmware,0.6069457901492317,"To the Vireo Customer Care Team,
+
+I am writing w/ reeference to my order of Pulse 2 (VR888088) placed on 17 Oct. Firware update stuck for 2 hours. I have restarted the app. I request u to kindly arrange a replacement.
+
+Sincerely,
+Pranav Sharma
+Indore",cx reached out - FW update stuck. Walked through recovery mode. Replacement raised (bricked). Case closed with cx consent. (SOP 5.4) -VG,Chat Frontline,chat,App & Firmware,Firmware update stuck for two hours; recovery failed to restore the unit and replacement was raised.
+TK-253812,Charging & Battery,Charging & Battery,0.8053140352251718,"Dear Sir/Madam,
+Got Pulse earbuds from Flipkart last month.  Battery life has dropped to almost nothing.
+Waiting for your reply.
+Thanks in advance, Tanvi","adv settings change, cx satisfied. Issue: poor battery backup. chk usage pattern with cx. //SNE",Chat Frontline,chat,Charging & Battery,Battery backup has dropped significantly; usage/settings were checked and issue addressed.
+TK-245331,Account & Login,Billing & Payments,0.4409783894970328,"Hey,
+I bought the Pulse 2 earbuds on 20/09. Need GST invoice for my order.
+I checked orders page. Nothing changed.
+I want my money back.
+Thank you Tenzin",cx states invoice query. Regenerated invoice. xfer to Logistics. GST invoice regenerated & shared. (SOP 2.7),Voice Frontline,voice,Billing & Payments,Customer requested a GST invoice; invoice was regenerated and shared.
+TK-249192,Other,Product Enquiry,0.9257018303621064,"Dear Sir/Madam, Ordered airlite earbuds recently. Before I buy - will this talk to a 2019 Samsung. I want my money back.",re: compatibility query | shared spec sheet -> query answered ~Ritika,Email Frontline,email,Product Enquiry,Compatibility question about using AirLite with a 2019 Samsung device.
+TK-247886,Billing & Payments,Delivery & Shipping,0.4545407957087921,"Not what I expected from Vireo.  Got Pulse2 from Flipkart 2 weeks ago. paid but package not delivered even after 16 days. I already called the courier. I want a replacement or refund, nothing else.","courier confirmed delivery for 05 dec, cx informed. issue: delivery delayed. confirmed address with cx.",Billing,chat,Delivery & Shipping,Order was paid for but not received; courier confirmed delivery status and logistics handled the case.
+TK-241356,Delivery & Shipping,Returns & Refunds,0.4981073046748969,"Dear Sir/Madam,
+
+I am writing with reference to my order of my Strata 3 headphones placed on 19-02-2025. Return pickup has not happened. I have caalled courier. I request you to kidnly arrange a replacement.
+
+Sincerely,
+Diya Chatterjee
+Noida",cx states reverse pickup pending. Re-raised pickup w/ courier. rfnd processed without pickup as goodwill. (SOP 5.4),Logistics,email,Returns & Refunds,Reverse pickup was pending; pickup was re-raised and refund processed as goodwill.
+TK-249103,Audio Quality,Connectivity,0.6616259898462872,it goes silent for a second every few minutes and comes back. VR882205. please resolve asap,FW update resolved //SIM,Email Frontline,email,Audio Quality,Intermittent audio dropouts; classified as an audio-quality issue and firmware update resolved it.
+TK-245891,Returns & Refunds,Delivery & Shipping,0.6158595351027081,"Hello, Bought the Pulse 2 earbuds around October 09 from vireo.in. Opened the parcel and it is a completely different thing. I rechecked my order. Nothing changed. Waiting for your reply.",issue: wrong variant received | verified order vs delivered item photos -> reverse pickup + correct item shipped ~Pranav,Returns Desk,chat,Returns & Refunds,Wrong variant/item received; return/reverse pickup and correct item shipment were arranged.
+TK-249880,Billing & Payments,Account & Login,0.5084663775844953,my company accounts team is asking for the tax bill,"1. Invoice not downloading
+2. Updated GSTIN on ord
+3. GST invoice regenerated and shared",Billing,chat,Billing & Payments,Tax/GST invoice request; GSTIN was updated and the GST invoice was regenerated and shared.
+TK-248975,Delivery & Shipping,Returns & Refunds,0.8941303497544322,"namaste, got pulse2 from flipkart last month. pickup schedulde but no one showed up. pleease help.","Pickup done, refund initiated. Issue: reverse pickup pending. Checked pickup AWB. (SOP 2.7) [closed]",Logistics,voice,Returns & Refunds,Reverse pickup was pending; pickup was completed and refund initiated.
+TK-246069,Delivery & Shipping,Delivery & Shipping,0.7418739061219728,[IVR transcript] Honestly regretting this purchase. Order VR907098 (my Nexa Fit band). order status stuck on shipped since 17 Oct. I already called the courier. This is the last time I buy from you.,"Cx says dlvry delayed. chk AWB w/ crr. RTO conf, reshipped.",Logistics,voice,Delivery & Shipping,Shipment was delayed/stuck in shipped status; courier check led to RTO and reshipment.
+TK-247145,Delivery & Shipping,Delivery & Shipping,0.629656336976534,"paid on 07 Nov, still waiting for sometihng to show up, waiting for your reply","shipment not received | confirmed address with cx -> courier confirmed delivery for 16 nov, cx informed",Logistics,email,Delivery & Shipping,Order had not been received; courier confirmed delivery timing and customer was informed.
+TK-240928,Delivery & Shipping,Other,0.6166666531052689,"hii
+need to change delivery address
+??",address updated ~Imran,Logistics,email,Delivery & Shipping,Customer needed to change the delivery address; address was updated.
+TK-244225,Account & Login,Billing & Payments,0.1959159573351614,"HI SIR
+THE INVOICE PDF LINK GIVES A 404
+PLS REPLY",sorted (SOP 3.1) //SIM,Email Frontline,email,Billing & Payments,Invoice PDF link returned an error; invoice issue was resolved.
+TK-242278,Returns & Refunds,Delivery & Shipping,0.5268320664089571,"dear sir/madam,
+i bought my strata 2 headphones on 04 may.  box was crushed and the my strata 2 headphones is cracked.
+i took photos. nothing changed.
+realyl frustrating.
+please advise.","New unit shipped under DOA. Issue: transit damage. Photos received, damage confirmed. ~Pranav",Returns Desk,chat,Delivery & Shipping,Product arrived physically damaged in transit; damage was confirmed and a replacement was shipped.
+TK-247395,Returns & Refunds,Delivery & Shipping,0.5720084199803037,"hey
+received damaged product","re: unit received damaged | checked witth courier for damage claim -> rlc raised, rma shared with cx",Returns Desk,chat,Delivery & Shipping,Customer received a damaged product; courier damage claim was checked and replacement/RMA was raised.
+TK-244578,Other,Other,0.7071012131060337,Honestly regretting this purchase. Bought my Nexa 2 watch around 16 Aug from Amazon. entered wrong pincode. I already tried editing in app. Fix this or I am posting on twitter.,"Already dispatched, adv to redirect w/ crr. Issue: wrong pincode. Checked dispatch status.",Chat Frontline,chat,Delivery & Shipping,"Wrong pincode/address was entered; shipment had already dispatched, so courier redirection was advised."
+TK-245518,Product Enquiry,Billing & Payments,0.4008767928915462,"namaste,
+ordered pulse 2 recently. your ad said 20% off and the cart says full price.
+i tried on app and website. nothing changed.
+please call me on my registered number.
+thanks & regards","adv coupon terms, resolved. issue: discount not applied. chk cart eligibility.",Email Frontline,email,Billing & Payments,Promised discount was missing from the cart; coupon eligibility/terms were checked.
+TK-247538,Charging & Battery,Audio Quality,0.5866080178819868,"team,
+only one side plays sound
+kuch karo
+??",rslvd on call,Chat Frontline,chat,Audio Quality,Only one side of the audio plays; treated as an audio-quality issue.
+TK-243792,Connectivity,Connectivity,0.8540331658267262,"Hello,
+Ordered Orbit speaker 2 weeks ago. My phone just doesn't see it in the list anymore.
+I forgot the device and tried again. Nothing changed.
+Honestly regretting this purchase.
+Please help.",cx: device not discoverable | checked phone os version -> full refund processed (5999),Chat Frontline,chat,Connectivity,Speaker is no longer discoverable by the phone; OS was checked and the issue concerns connectivity.
+TK-247129,Billing & Payments,Billing & Payments,0.923433301727868,i am losing patience.  this is regarding strata 2. payment successful but order not delivered. i already checked the tracking page daily. escalate this to someone senior.,"Not a billing issue - delivery query, transferring to logistics. Cx reported shipment not rcvd. Raised ticket w/ crr partner. xfer to Logistics. Refund initiated as lost in transit. Follow-up not required. (SOP 3.1) ~Imran",Billing,social,Delivery & Shipping,Payment succeeded but order was not received; case was correctly routed to delivery/logistics.
+TK-248012,Delivery & Shipping,Delivery & Shipping,0.7477585654066451,"i haven't received my order, please resolve asap",Refund initiated as lost in transit. Issue: shipment not received. Checked AWB with courier. [closed],Logistics,email,Delivery & Shipping,Order was not received and was considered lost in transit; refund was initiated.
+TK-246085,Audio Quality,Audio Quality,0.681163957790724,"helo
+one of them is just decoration at this point
+pulse 2
+pls reply","issue: single side audio only | walked through reset -> replacement approved, reverse pickup arranged -SM",Chat Frontline,chat,Audio Quality,One side of the earbuds has no sound; reset resolved the audio issue.
+TK-250473,Product Enquiry,Billing & Payments,0.409508168802786,promo code sohws invalid - VR897059,Store credit issued. Issue: promo code invalid. chk cart eligibility. //SNE,Chat Frontline,chat,Billing & Payments,Promo code was invalid; coupon eligibility was checked and store credit issued.
+TK-254157,Charging & Battery,Charging & Battery,0.7235373057114303,not waht i expected from vireo.  bought the pulse 2 earbuds around 01/03 from vireo.in. battery draining even when not in use. i already turned off always-on display. fix this or i am posting on twitter.,"reported: rapid battery drain. checked fw 1.1.12. fw update pushed, adv to monitor. cx satisfied on chat.",Email Frontline,email,Charging & Battery,Battery drains rapidly even when not in use; firmware was checked and updated.
+TK-251280,Delivery & Shipping,Other,0.4286438304551773,"entered worng pincode
+please help",Address updated. Issue: address update. Updated address w/ courier. (SOP 2.7) [closed],Logistics,email,Delivery & Shipping,Wrong pincode was entered; address was updated with the courier.
+TK-246054,Audio Quality,Audio Quality,0.761302969091577,Not acceptable at this price. Got the Pulse 2 earbuds from Amazon 10 days ago. no sound from the right earbud. I already reset the buds. Refund. Now.,ticket raised for single side audio only. aksed cx to check bud in case. reset resolved. cx informed.,Email Frontline,email,Audio Quality,Right earbud has no sound; reset resolved the issue.
+TK-248965,Account & Login,Account & Login,0.6548838897180047,"hii
+teh login code never arrives, tried 6 times
+help",sorted,Email Frontline,email,Account & Login,Login OTP/code is not arriving; this is an account/login access issue.
+TK-246916,Connectivity,Connectivity,0.6890491479621407,"Hello, I bought AirLite on 05-10-2025. It connects for a second and then vanishes from the device list. I restarted the phone. Please resolve asap. Thanks & regards","reest done, paierd ok. issue: device not discoverable. walked through forget + re-pair. (sop 3.1)",Chat Frontline,chat,Connectivity,Device repeatedly disappears after pairing; forget/re-pair resolved the connectivity issue.
+TK-248753,Returns & Refunds,Returns & Refunds,0.9141832255589434,where is the money for the return. VR890432. i want my money back,re: refund not credited | checked refund status on pg -> arn shared with cx,Returns Desk,email,Returns & Refunds,Refund for a return had not been credited; refund status was checked and ARN shared.
+TK-254417,Product Enquiry,Product Enquiry,0.8733968736887631,"namaste,
+order vr909880 (teh nexa 2). my dad has an old nokia, wlil the watch app run.
+kindly look into it.",Reported: compatibility query. Shared compatibility info. Query answered. ~Ramesh,Chat Frontline,chat,Product Enquiry,Pre-sales compatibility question about connecting the watch app with an old Nokia phone.
+TK-252551,Billing & Payments,Billing & Payments,0.6450369451824478,"the festive offer vanished when i clicked pay, vr899698",discount not applied | checked coupon validity -> partial rfnd of discount amount issued //HAR,Billing,social,Billing & Payments,Festive discount disappeared at payment; coupon validity checked and discount amount refunded.
+TK-242848,Product Enquiry,Billing & Payments,0.5781965997323999,"hi
+i was promised a discount on the call, invoice shows none
+pls reply","1. coupon not applied
+2. checked coupon validity
+3. store credit issued",Email Frontline,email,Billing & Payments,Promised discount was missing from the invoice; coupon validity checked and store credit issued.
+TK-245290,Connectivity,Connectivity,0.4371580445220138,"hello
+cannot pair the pulse 2 earbuds with my laptop
+the pulse 2 earbuds
+hello??",sorted,Chat Frontline,social,Connectivity,Pulse 2 cannot pair with a laptop; this is a connectivity/pairing issue.
+TK-251836,Audio Quality,Audio Quality,0.8429364305116067,"Got Pulse earbuds from vireo.in last month. Microphone is very low on the Pulse earbuds. I want a replacement. Awaiting response, Vihaan",Customer reached out - mic not working on calls. Tested on call w/ cx. FW update adv.,Chat Frontline,chat,Audio Quality,Microphone pickup is very low; mic issue was tested and firmware update advised.
+TK-246929,Account & Login,Billing & Payments,0.4408923529645431,"Dear Sir/Madam,
+
+I am writing with refernce to my order of Obrit Mini (VR903284) placed on November 01. Need GST ivoice for my order. I have checcked orders page. I request you to provide a resolution within 3 workng days.
+
+Sincerely,
+Harpreet Tiwari
+Kolkata",Invoice emailed. Issue: invoice not downloading. Regenerated invoice.,Chat Frontline,social,Billing & Payments,GST invoice was not downloading; invoice was regenerated and emailed.
+TK-240632,Other,Other,0.7936072591060538,"Got the Nexa 2 from vireo.in 10 days ago. Cancel order VR905732.
+I want my money back.",Customer states cancellation request. Cancelled before dispatch. rfnd of Rs 5849 initiated to source.,Chat Frontline,chat,Returns & Refunds,Customer requested order cancellation; order was cancelled before dispatch and refund initiated.
+TK-242627,Product Enquiry,Product Enquiry,0.9610599077327868,"hey
+my dad has an old nokia, will the watch app run
+hello??",Query answered. Issue: product enquiry. Shared spec sheet. //SNE,Chat Frontline,chat,Product Enquiry,Pre-sales compatibility question; product specifications were shared and query answered.
+TK-241612,Other,Other,0.7398020374368701,"team,
+entered wrong pincode
+last month se
+??",re: wrong pincode | checked dispatch status -> address updated ~Abhishek,Chat Frontline,social,Delivery & Shipping,Wrong pincode/address issue; dispatch status checked and address updated.
+TK-253484,App & Firmware,App & Firmware,0.8489532553321499,"Dear Sir/Madam,
+
+I am writing w/ reference to my order of Pulse 2 placed on 07/05. Since the last update the app just shows a whiet screen. I have reinstalled the app. I request you to kindly arrange a replacement.
+
+Yours faithfully,
+Swati Banasl","cx: app crashing | checked app version -> advised beta build, resolved ~Ritika",Email Frontline,email,App & Firmware,App shows a white screen after an update; app crash/version issue was resolved.
+TK-243274,App & Firmware,Charging & Battery,0.4756187491036741,[IVR transcript] I am losing patience.  I bought Strata 3 on 30/11. battery backup is terrible now. I already turned off always-on display. Fix this or I am posting on twitter.,"adv settings change, cx satisfied. Issue: poor battery backup. Checked FW 2.7.12. //ZOY",Voice Frontline,voice,Charging & Battery,Battery backup is poor; settings and firmware were checked and battery issue addressed.
+TK-250843,Product Enquiry,Billing & Payments,0.3949364561227327,"Dear Sir/Madam,
+
+I am writing with referennce to my order of Nexa Fit (VR900318) placed on 03-03-2026. Your ad said 20% off and teh catr says full price. I have tried on app and website. I reqquest you to provide a resolution within 3 working days.
+
+Sincerely,
+Bhavna Qureshi
+Mumbai","1. Discount not applied
+2. Checked cart eligibility
+3. Partial refund of discount amount issued (SOP 3.1)",Email Frontline,email,Billing & Payments,Discount was not applied; cart eligibility checked and partial discount refund issued.
+TK-245328,Returns & Refunds,Delivery & Shipping,0.5514011643810461,"hello
+received damaged product
+help","issue: damaged in transit | checked with courier for damage claim -> replacement approved, reverse pickup arranged ~Pranav",Returns Desk,chat,Delivery & Shipping,Product arrived damaged in transit; courier claim checked and replacement approved.
+TK-251752,Charging & Battery,App & Firmware,0.551100869145085,"hi there, this is regarding my pulse 2.  it's showing a spinning circle for hours. i kept it in the case. waiting for your reply. awaiting response,",cx states firmware update failed. Checked FW 1.7.0 rollout. New unit shipped under DOA.,Chat Frontline,chat,App & Firmware,Firmware update was stuck/spinning for hours; update failure led to replacement under DOA.
+TK-247965,Billing & Payments,Billing & Payments,0.7045701218320669,"hello
+pyment went through but i got no order id",done ~Megha,Billing,chat,Billing & Payments,Payment went through but no order ID was generated; this is a payment/order-creation issue.
+TK-248305,Delivery & Shipping,Delivery & Shipping,0.9185774690042958,"hello
+screen has a crack before i even switched it on
+pulse2
+help","Reported: unit rcvd damaged. Photos rcvd, damage confirmed. Replacement unit dispatched. Cx informed. (SOP 5.4) ~Imran",Logistics,chat,Delivery & Shipping,Screen was cracked on arrival; damage confirmed and replacement dispatched.
+TK-247608,Billing & Payments,Billing & Payments,0.7197018149205854,"Hi there,
+Ordered Pulse 2 3 weeks back. I haven't received my order, payment was done on 20 Nov.
+I checked the tracking page daily.
+Please call me on my registered number.
+Regards Shreya Shinde","RTO confirmed, reshipped. Issue: shipment not rcvd. chk AWB w/ crr. Via Logistics. [closed]",Billing,social,Delivery & Shipping,Order was paid for but not received; RTO was confirmed and shipment reshipped.
+TK-242483,Account & Login,Account & Login,0.9281292431696552,"hello ji
+cannot login to my account","Ticket raised for OTP not received. Checked OTP logs. OTP resent, cx logged in.",Email Frontline,email,Account & Login,Customer cannot log in; OTP issue was investigated and OTP resent.
+TK-240978,App & Firmware,Account & Login,0.7491821269542346,"really frustrating. my pulse purchased 2 weeks ago, order vr909930. the login code never arrives, tried 6 times. i already tried 5 times. this is the last time i buy from u.",issue: uable to log in | chceked number on account -> account unlocked [closed],Chat Frontline,chat,Account & Login,Login code never arrives; account/login access issue was confirmed and account unlocked.
+TK-250109,Account & Login,Account & Login,0.937297221459845,"hi team, ordered pulse earbuds 3 weeks back. your site keeps saying it sent me a code and my phone disagrees. i tride on another browser. please advise. pleaes revert,",Cx says login issue. Checked OTP logs. Account unlocked. ~Ramesh,Chat Frontline,chat,Account & Login,Login OTP is not received; OTP logs checked and account access restored.
+TK-253311,Audio Quality,Connectivity,0.5613626850826362,[IVR transcript] connection drops constantly.  vr883233. i want a replacement,cx: intermittent disconnects | checked fw 1.2.3 -> fw update resolved,Voice Frontline,voice,Connectivity,Connection drops constantly; intermittent disconnect issue resolved by firmware update.
+TK-244834,App & Firmware,Connectivity,0.2781714851322361,I am losing patience. I bought the strta 3 on 22 Jul. cannot pair the straat 3 wth my laptop. I already forgot the device and tried again. This is the lats time I buy from u.,rplc unit dispatched (sop 4.2) //AAD,Email Frontline,email,Connectivity,Cannot pair device with laptop; this is a connectivity/pairing issue.
+TK-253957,Product Enquiry,Product Enquiry,0.7960005798030846,i am losing patience. got 65w charger from amazon 10 days ago. is 65w charger compatible with my tv. fix this or i am posting on twitter.,Cx says product enquiry. Shared spec sheet. Query answered. Closing. -VG,Email Frontline,email,Product Enquiry,Pre-sales compatibility question about a 65W charger and TV.
+TK-242768,Audio Quality,Connectivity,0.6467126625570251,connection drops constantly,reported: connection dropping. advised to test in different location. replacement raised. cx informed.,Email Frontline,email,Connectivity,Connection drops while moving away from the phone; intermittent connectivity issue.
+TK-240974,Audio Quality,Audio Quality,0.9090378708917164,mic not working on calls - VR901892,issue: low mic pickup | checked mic permissions on phone -> rplc raised,Email Frontline,email,Audio Quality,Microphone does not work on calls; mic permissions checked and replacement raised.
+TK-246771,Account & Login,Billing & Payments,0.7570816646410785,"hi team, ordered pulse2 last month.  the invoice pdf link gives a 404. please resoolve asap",Contact re GST invoice request. Updated GSTIN on order. Transferred to Logistics. Invoice emailed. Case closed with cx consent. (SOP 5.4) ~Imran,Chat Frontline,chat,Billing & Payments,Invoice PDF returns a 404; GST invoice was regenerated/emailed.
+TK-251229,Returns & Refunds,Returns & Refunds,0.7805004637250581,"the app said pickup today, that was on 28/02 - VR900757 - i want a replacement",Ticket raised for reverse pickup pending. Checked pickup AWB. rfnd processed without pickup as goodwill. Case closed with cx consent. (SOP 3.1) [closed],Returns Desk,chat,Returns & Refunds,Reverse pickup was pending; pickup was checked and refund processed as goodwill.
+TK-251299,Billing & Payments,Other,0.783610778700507,"Product: Orbit Mini
+Order: VR902559
+Purchased: 05-03-2026
+Issue: want to cancel my order
+Tried: tried cancel button, greyed out
+Expected: replacement","Ticket raised for order cancellation. Cancelled before dispatch. Already shipped, advised RTO/return. Case closed with cx consent.",Billing,email,Returns & Refunds,Customer requested cancellation; order cancellation/return handling is a returns/refunds issue.
+TK-248765,Charging & Battery,App & Firmware,0.533036647516125,"Namaste, Bought my Pulse 2 around 02-12-2025 from Amazon. Firmware update stuck for 2 hours. I restarted the app. I am losing patience. Waiting for your reply. Thank you, Kabir",Contact re FW update stuck. Checked FW 1.6.2 rollout. Reocvery successful.,Email Frontline,email,App & Firmware,Firmware update was stuck for two hours; recovery succeeded.
+TK-245609,App & Firmware,Charging & Battery,0.7268981752577676,"battery draining even when not in use, VR883371, what do i do now?","battery draining fast | checked usage pattern with cx -> adv settings change, cx satisfied -SS",Chat Frontline,chat,Charging & Battery,Battery drains even when not in use; usage/settings were checked and adjusted.
+TK-245170,Charging & Battery,Audio Quality,0.2110739114572881,"deaar sir/madam,
+
+i am writing with reference to my order of strata 2 (vr908437) placed on 15-04-2025. right earbud completely silent. i have checked balanec settings. i request you to kindly arrange a replacement.
+
+regards,
+daniel deshpande
+kolkata",as discussed -VG,Email Frontline,email,Audio Quality,Right earbud is completely silent; this is an audio-quality issue.
+TK-240356,Charging & Battery,Audio Quality,0.7152036842276619,"Hello, I bought AirLite on 13 Sep. Left side has no audiio at all. I checked balance settings. Nothing changed. This is v disappointing. Kindly look into it. Thank you Sameer",Ticket raised for no audio one side. Walked through reset. Reset resolved. ~Ramesh,Chat Frontline,chat,Audio Quality,Left earbud has no audio; reset resolved the single-side audio problem.
+TK-250657,Returns & Refunds,Returns & Refunds,0.860229861874153,Really frustrating.  This is regarding my Pules 2. I have been sitting at home for 3 days waiting for ur courier. I already reschduled pickup twice. This is the last time I buy from u.,"cx: reverse pkp pending | checked pkp awb -> pkp done, rfnd initiated",Returns Desk,chat,Returns & Refunds,Reverse pickup was pending; pickup completed and refund initiated.
+TK-250156,Returns & Refunds,Returns & Refunds,0.888721867886468,not acceptable at this price. i bought the nexa 2 on 25/01. pickup scheduled but no one showed up. i already called courier. escalate this to someone senior.,issue: reverse pickup pending | checked pickup awb -> new unit shipped under doa ~Pranav,Returns Desk,chat,Returns & Refunds,Reverse pickup was not completed; pickup status checked and replacement/new unit handled.
+TK-247147,Audio Quality,Connectivity,0.6046782938656063,keeps losing my phone if I walk to the other room.  please advise,replacement raised. issue: intermittent disconnects. checked interference sources. ~Abhishek,Email Frontline,email,Connectivity,Phone connection drops at range; intermittent connectivity issue and replacement raised.
+TK-254622,Product Enquiry,Product Enquiry,0.9194605520846848,"hi sir
+can i connect two pulse 2 buds together
+pulse 2 buds
+anyone there",re: pre-sales query | shared spec sheet -> cx satisfied -SS,Voice Frontline,voice,Product Enquiry,Pre-sales question about connecting two Pulse 2 buds together.
+TK-249397,App & Firmware,Account & Login,0.7363555693026371,"Dear Sir/Madam,
+
+I am writing with reference to my order of airlite earbuds (VR910114) placed on 19-12-2025. Not receiving OTP to login. I have tried on another browser. I request you to provide a resolution within 3 working days.
+
+Sincerely,
+Manpreet Naidu","OTP resent, cx logged in. Issue: OTP not rcvd. chk OTP logs. Via Logistics. (SOP 4.2)",Email Frontline,email,Account & Login,"Login OTP is not received; OTP logs checked, OTP resent and login restored."
+TK-252183,Returns & Refunds,Delivery & Shipping,0.6034161166671888,"product: pulse earbuds
+order: vr890988
+purchased: 10 apr
+issue: the parcel looked like it was kicked here frmo the warehouse, and the unit has a crack
+tried: refsued nothing as i didn't notice till later
+expected: fix",cx: damaged in transit | checked with courier for damage claim -> refund initiated,Returns Desk,email,Delivery & Shipping,Product was damaged in transit; courier damage claim checked and refund initiated.
+TK-242236,Charging & Battery,Charging & Battery,0.6834576607064391,"Dera Sir/Madam,
+
+I am writing w/ reference to my order of my Pulse (VR897569) placeed on 14/01.  Charging case dead, tried 3 cables. I have charged for 6 hours nothing. I request you to look itno this matter at the earliest.
+
+Regards,
+Daniel Fernandes
+Ahmedabad",cx: charging case dead | confirmed case led dead -> esc to warranty [closed],Chat Frontline,chat,Charging & Battery,Charging case is dead/not charging; case LED confirmed dead and escalated to warranty.
+TK-244843,Delivery & Shipping,Delivery & Shipping,0.6358139629113588,package not delivered even afetr 17 days - what do i do now?,"Cx says ord not delivered. chk AWB w/ crr. RTO confirmed, reshipped.",Logistics,email,Delivery & Shipping,Package was not delivered after 17 days; courier checked and shipment reshipped.
+TK-248096,Connectivity,App & Firmware,0.4665408760764394,"namaste,
+got pulse2 from vireo.in a month ago. the progress bar has not moved since morning.
+how do i get this fixed?
+awaiting response,",update hang | walked through recovery mode -> refunded rs 3499,Email Frontline,email,App & Firmware,Firmware/update progress was stuck; recovery mode attempted and refund processed.
+TK-252442,Billing & Payments,Returns & Refunds,0.4305502326501553,"hello ji
+the reutrn was accepted but the amount is nowhere in my account
+anyone there","rfnd approved, rs 975, 5-7 working days. issue: rfnd not credited. checked rfnd status on pg. ~Megha",Billing,social,Returns & Refunds,Return was accepted but refund was not credited; refund status checked and timeline provided.
+TK-241117,Billing & Payments,Account & Login,0.2389898250346983,the invoice PDF link gives a 404. VR887509,see prev,Billing,email,Billing & Payments,Invoice PDF link returns 404; this is a billing/invoice issue.
+TK-245973,Connectivity,App & Firmware,0.856693409392933,app not opening after update,"cx reported app crash on device page. asked for pone model + os. cleared cache, rslvd.",Chat Frontline,social,App & Firmware,App does not open after an update; app crash issue resolved after troubleshooting.
+TK-244775,Account & Login,Billing & Payments,0.5799707191632134,INVOICE NOT DOWNLOADING,cx says invoice not downloading. updated gstin on order. invoice emailed. case closed with cx consent.,Email Frontline,email,Billing & Payments,Invoice is not downloading; GSTIN was updated and invoice emailed.
+TK-242797,Other,Billing & Payments,0.4222854023230875,"hello ji
+need the bill with my firm's gstin on it
+abhi tak kuch nahi hua",Cx says GST invoice request. Updated GSTIN on ord. Invoice emailed.,Chat Frontline,chat,Billing & Payments,Customer needs a GST invoice with company GSTIN; GSTIN updated and invoice emailed.
+TK-253053,Account & Login,Account & Login,0.9387826658581058,your site keeps saying it sent me a code and my phone disagrees - please call me on my registered number,"ticket raised for unable to log in. checked otp logs. otp resent, cx logged in.",Email Frontline,email,Account & Login,Login OTP/code is not arriving; OTP logs checked and OTP resent.
+TK-244326,App & Firmware,App & Firmware,0.9008355465700796,[IVR transcript] helo firmware update is stuck at 67%,Update completed after retry. Issue: fw update failed. Checked FW 3.6.2 rollout.,Voice Frontline,voice,App & Firmware,Firmware update stuck at 67%; retry completed the update successfully.
+TK-250799,Connectivity,Audio Quality,0.8572731006207424,"Namaste, Bought the Plse buds around 24 Nov from vireo.in.  Mic not working on calls. I checked mic permissions. Please advise.",Cx says low mic pkp. Tested on call w/ cx. rplc raised.,Chat Frontline,social,Audio Quality,Microphone is not working on calls; mic permissions tested and replacement raised.

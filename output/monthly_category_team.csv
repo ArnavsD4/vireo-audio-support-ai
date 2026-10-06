@@ -1,0 +1,743 @@
+month,assigned_team,ai_category,ticket_volume
+2025-01,Billing,Billing & Payments,66
+2025-01,Billing,Delivery & Shipping,1
+2025-01,Billing,Other,2
+2025-01,Billing,Returns & Refunds,2
+2025-01,Chat Frontline,Account & Login,4
+2025-01,Chat Frontline,App & Firmware,8
+2025-01,Chat Frontline,Audio Quality,13
+2025-01,Chat Frontline,Billing & Payments,3
+2025-01,Chat Frontline,Charging & Battery,16
+2025-01,Chat Frontline,Connectivity,10
+2025-01,Chat Frontline,Delivery & Shipping,8
+2025-01,Chat Frontline,Other,11
+2025-01,Chat Frontline,Product Enquiry,11
+2025-01,Email Frontline,Account & Login,3
+2025-01,Email Frontline,App & Firmware,6
+2025-01,Email Frontline,Audio Quality,8
+2025-01,Email Frontline,Charging & Battery,6
+2025-01,Email Frontline,Connectivity,13
+2025-01,Email Frontline,Delivery & Shipping,2
+2025-01,Email Frontline,Other,4
+2025-01,Email Frontline,Product Enquiry,3
+2025-01,Escalations & Warranty,Delivery & Shipping,1
+2025-01,Escalations & Warranty,Warranty & Repair,9
+2025-01,Logistics,Delivery & Shipping,50
+2025-01,Logistics,Other,1
+2025-01,Logistics,Returns & Refunds,1
+2025-01,Returns Desk,Delivery & Shipping,1
+2025-01,Returns Desk,Returns & Refunds,25
+2025-01,Voice Frontline,App & Firmware,5
+2025-01,Voice Frontline,Audio Quality,3
+2025-01,Voice Frontline,Billing & Payments,2
+2025-01,Voice Frontline,Charging & Battery,3
+2025-01,Voice Frontline,Connectivity,5
+2025-01,Voice Frontline,Delivery & Shipping,1
+2025-01,Voice Frontline,Other,4
+2025-01,Voice Frontline,Product Enquiry,3
+2025-02,Billing,Billing & Payments,71
+2025-02,Billing,Delivery & Shipping,3
+2025-02,Billing,Returns & Refunds,2
+2025-02,Chat Frontline,Account & Login,12
+2025-02,Chat Frontline,App & Firmware,8
+2025-02,Chat Frontline,Audio Quality,5
+2025-02,Chat Frontline,Billing & Payments,4
+2025-02,Chat Frontline,Charging & Battery,16
+2025-02,Chat Frontline,Connectivity,12
+2025-02,Chat Frontline,Delivery & Shipping,2
+2025-02,Chat Frontline,Other,16
+2025-02,Chat Frontline,Product Enquiry,18
+2025-02,Chat Frontline,Warranty & Repair,2
+2025-02,Email Frontline,Account & Login,8
+2025-02,Email Frontline,App & Firmware,3
+2025-02,Email Frontline,Audio Quality,9
+2025-02,Email Frontline,Billing & Payments,2
+2025-02,Email Frontline,Charging & Battery,8
+2025-02,Email Frontline,Connectivity,7
+2025-02,Email Frontline,Delivery & Shipping,3
+2025-02,Email Frontline,Other,7
+2025-02,Email Frontline,Product Enquiry,10
+2025-02,Escalations & Warranty,Audio Quality,1
+2025-02,Escalations & Warranty,Warranty & Repair,14
+2025-02,Logistics,Delivery & Shipping,61
+2025-02,Logistics,Other,6
+2025-02,Logistics,Returns & Refunds,2
+2025-02,Returns Desk,Returns & Refunds,33
+2025-02,Voice Frontline,Account & Login,2
+2025-02,Voice Frontline,App & Firmware,2
+2025-02,Voice Frontline,Audio Quality,5
+2025-02,Voice Frontline,Billing & Payments,1
+2025-02,Voice Frontline,Charging & Battery,2
+2025-02,Voice Frontline,Connectivity,2
+2025-02,Voice Frontline,Delivery & Shipping,1
+2025-02,Voice Frontline,Other,5
+2025-02,Voice Frontline,Product Enquiry,3
+2025-03,Billing,Account & Login,1
+2025-03,Billing,Billing & Payments,95
+2025-03,Billing,Delivery & Shipping,3
+2025-03,Billing,Other,4
+2025-03,Billing,Returns & Refunds,1
+2025-03,Chat Frontline,Account & Login,6
+2025-03,Chat Frontline,App & Firmware,12
+2025-03,Chat Frontline,Audio Quality,13
+2025-03,Chat Frontline,Billing & Payments,4
+2025-03,Chat Frontline,Charging & Battery,20
+2025-03,Chat Frontline,Connectivity,24
+2025-03,Chat Frontline,Delivery & Shipping,6
+2025-03,Chat Frontline,Other,16
+2025-03,Chat Frontline,Product Enquiry,16
+2025-03,Chat Frontline,Warranty & Repair,3
+2025-03,Email Frontline,Account & Login,4
+2025-03,Email Frontline,App & Firmware,8
+2025-03,Email Frontline,Audio Quality,7
+2025-03,Email Frontline,Billing & Payments,4
+2025-03,Email Frontline,Charging & Battery,9
+2025-03,Email Frontline,Connectivity,13
+2025-03,Email Frontline,Delivery & Shipping,1
+2025-03,Email Frontline,Other,7
+2025-03,Email Frontline,Product Enquiry,6
+2025-03,Email Frontline,Warranty & Repair,2
+2025-03,Escalations & Warranty,Charging & Battery,1
+2025-03,Escalations & Warranty,Delivery & Shipping,1
+2025-03,Escalations & Warranty,Warranty & Repair,18
+2025-03,Logistics,Delivery & Shipping,64
+2025-03,Logistics,Other,3
+2025-03,Logistics,Returns & Refunds,7
+2025-03,Returns Desk,Delivery & Shipping,2
+2025-03,Returns Desk,Returns & Refunds,44
+2025-03,Voice Frontline,Account & Login,3
+2025-03,Voice Frontline,App & Firmware,4
+2025-03,Voice Frontline,Audio Quality,4
+2025-03,Voice Frontline,Billing & Payments,2
+2025-03,Voice Frontline,Charging & Battery,3
+2025-03,Voice Frontline,Connectivity,6
+2025-03,Voice Frontline,Delivery & Shipping,2
+2025-03,Voice Frontline,Other,4
+2025-03,Voice Frontline,Product Enquiry,9
+2025-04,Billing,Billing & Payments,98
+2025-04,Billing,Delivery & Shipping,3
+2025-04,Billing,Returns & Refunds,3
+2025-04,Chat Frontline,Account & Login,9
+2025-04,Chat Frontline,App & Firmware,6
+2025-04,Chat Frontline,Audio Quality,10
+2025-04,Chat Frontline,Billing & Payments,2
+2025-04,Chat Frontline,Charging & Battery,18
+2025-04,Chat Frontline,Connectivity,24
+2025-04,Chat Frontline,Delivery & Shipping,2
+2025-04,Chat Frontline,Other,12
+2025-04,Chat Frontline,Product Enquiry,16
+2025-04,Chat Frontline,Warranty & Repair,2
+2025-04,Email Frontline,Account & Login,4
+2025-04,Email Frontline,App & Firmware,8
+2025-04,Email Frontline,Audio Quality,8
+2025-04,Email Frontline,Billing & Payments,4
+2025-04,Email Frontline,Charging & Battery,15
+2025-04,Email Frontline,Connectivity,8
+2025-04,Email Frontline,Delivery & Shipping,5
+2025-04,Email Frontline,Other,13
+2025-04,Email Frontline,Product Enquiry,6
+2025-04,Email Frontline,Warranty & Repair,3
+2025-04,Escalations & Warranty,Audio Quality,1
+2025-04,Escalations & Warranty,Charging & Battery,3
+2025-04,Escalations & Warranty,Warranty & Repair,18
+2025-04,Logistics,Delivery & Shipping,72
+2025-04,Logistics,Other,4
+2025-04,Logistics,Returns & Refunds,1
+2025-04,Returns Desk,Delivery & Shipping,3
+2025-04,Returns Desk,Returns & Refunds,41
+2025-04,Voice Frontline,Account & Login,1
+2025-04,Voice Frontline,App & Firmware,5
+2025-04,Voice Frontline,Audio Quality,2
+2025-04,Voice Frontline,Billing & Payments,2
+2025-04,Voice Frontline,Charging & Battery,5
+2025-04,Voice Frontline,Connectivity,4
+2025-04,Voice Frontline,Other,3
+2025-04,Voice Frontline,Product Enquiry,5
+2025-05,Billing,Billing & Payments,73
+2025-05,Billing,Delivery & Shipping,4
+2025-05,Billing,Other,2
+2025-05,Billing,Returns & Refunds,4
+2025-05,Chat Frontline,Account & Login,8
+2025-05,Chat Frontline,App & Firmware,11
+2025-05,Chat Frontline,Audio Quality,9
+2025-05,Chat Frontline,Billing & Payments,4
+2025-05,Chat Frontline,Charging & Battery,14
+2025-05,Chat Frontline,Connectivity,26
+2025-05,Chat Frontline,Delivery & Shipping,4
+2025-05,Chat Frontline,Other,18
+2025-05,Chat Frontline,Product Enquiry,11
+2025-05,Chat Frontline,Warranty & Repair,1
+2025-05,Email Frontline,Account & Login,6
+2025-05,Email Frontline,App & Firmware,7
+2025-05,Email Frontline,Audio Quality,7
+2025-05,Email Frontline,Billing & Payments,1
+2025-05,Email Frontline,Charging & Battery,5
+2025-05,Email Frontline,Connectivity,14
+2025-05,Email Frontline,Other,11
+2025-05,Email Frontline,Product Enquiry,4
+2025-05,Escalations & Warranty,Audio Quality,2
+2025-05,Escalations & Warranty,Charging & Battery,4
+2025-05,Escalations & Warranty,Warranty & Repair,19
+2025-05,Logistics,Delivery & Shipping,66
+2025-05,Logistics,Other,5
+2025-05,Logistics,Returns & Refunds,1
+2025-05,Returns Desk,Delivery & Shipping,2
+2025-05,Returns Desk,Returns & Refunds,40
+2025-05,Voice Frontline,Account & Login,1
+2025-05,Voice Frontline,App & Firmware,5
+2025-05,Voice Frontline,Audio Quality,6
+2025-05,Voice Frontline,Charging & Battery,6
+2025-05,Voice Frontline,Connectivity,9
+2025-05,Voice Frontline,Delivery & Shipping,4
+2025-05,Voice Frontline,Other,4
+2025-05,Voice Frontline,Product Enquiry,5
+2025-05,Voice Frontline,Warranty & Repair,1
+2025-06,Billing,Account & Login,1
+2025-06,Billing,Billing & Payments,88
+2025-06,Billing,Other,3
+2025-06,Billing,Returns & Refunds,6
+2025-06,Chat Frontline,Account & Login,12
+2025-06,Chat Frontline,App & Firmware,14
+2025-06,Chat Frontline,Audio Quality,11
+2025-06,Chat Frontline,Billing & Payments,9
+2025-06,Chat Frontline,Charging & Battery,9
+2025-06,Chat Frontline,Connectivity,16
+2025-06,Chat Frontline,Delivery & Shipping,5
+2025-06,Chat Frontline,Other,13
+2025-06,Chat Frontline,Product Enquiry,11
+2025-06,Chat Frontline,Warranty & Repair,2
+2025-06,Email Frontline,Account & Login,3
+2025-06,Email Frontline,App & Firmware,9
+2025-06,Email Frontline,Audio Quality,9
+2025-06,Email Frontline,Billing & Payments,1
+2025-06,Email Frontline,Charging & Battery,7
+2025-06,Email Frontline,Connectivity,20
+2025-06,Email Frontline,Delivery & Shipping,2
+2025-06,Email Frontline,Other,8
+2025-06,Email Frontline,Product Enquiry,5
+2025-06,Email Frontline,Warranty & Repair,2
+2025-06,Escalations & Warranty,Delivery & Shipping,1
+2025-06,Escalations & Warranty,Warranty & Repair,15
+2025-06,Logistics,Delivery & Shipping,70
+2025-06,Logistics,Other,4
+2025-06,Logistics,Returns & Refunds,6
+2025-06,Returns Desk,Returns & Refunds,42
+2025-06,Voice Frontline,Account & Login,3
+2025-06,Voice Frontline,App & Firmware,3
+2025-06,Voice Frontline,Audio Quality,3
+2025-06,Voice Frontline,Billing & Payments,4
+2025-06,Voice Frontline,Charging & Battery,7
+2025-06,Voice Frontline,Connectivity,6
+2025-06,Voice Frontline,Delivery & Shipping,1
+2025-06,Voice Frontline,Other,5
+2025-06,Voice Frontline,Product Enquiry,3
+2025-07,Billing,Billing & Payments,86
+2025-07,Billing,Delivery & Shipping,3
+2025-07,Billing,Other,2
+2025-07,Billing,Returns & Refunds,6
+2025-07,Chat Frontline,Account & Login,7
+2025-07,Chat Frontline,App & Firmware,21
+2025-07,Chat Frontline,Audio Quality,5
+2025-07,Chat Frontline,Billing & Payments,1
+2025-07,Chat Frontline,Charging & Battery,15
+2025-07,Chat Frontline,Connectivity,22
+2025-07,Chat Frontline,Delivery & Shipping,3
+2025-07,Chat Frontline,Other,26
+2025-07,Chat Frontline,Product Enquiry,12
+2025-07,Email Frontline,Account & Login,5
+2025-07,Email Frontline,App & Firmware,12
+2025-07,Email Frontline,Audio Quality,9
+2025-07,Email Frontline,Billing & Payments,2
+2025-07,Email Frontline,Charging & Battery,14
+2025-07,Email Frontline,Connectivity,15
+2025-07,Email Frontline,Delivery & Shipping,2
+2025-07,Email Frontline,Other,12
+2025-07,Email Frontline,Product Enquiry,9
+2025-07,Email Frontline,Warranty & Repair,2
+2025-07,Escalations & Warranty,Charging & Battery,2
+2025-07,Escalations & Warranty,Delivery & Shipping,1
+2025-07,Escalations & Warranty,Warranty & Repair,14
+2025-07,Logistics,Delivery & Shipping,65
+2025-07,Logistics,Other,6
+2025-07,Logistics,Returns & Refunds,8
+2025-07,Returns Desk,Delivery & Shipping,2
+2025-07,Returns Desk,Returns & Refunds,35
+2025-07,Voice Frontline,Account & Login,4
+2025-07,Voice Frontline,App & Firmware,2
+2025-07,Voice Frontline,Audio Quality,5
+2025-07,Voice Frontline,Billing & Payments,1
+2025-07,Voice Frontline,Charging & Battery,6
+2025-07,Voice Frontline,Connectivity,8
+2025-07,Voice Frontline,Other,8
+2025-07,Voice Frontline,Product Enquiry,4
+2025-08,Billing,Account & Login,1
+2025-08,Billing,Billing & Payments,147
+2025-08,Billing,Delivery & Shipping,4
+2025-08,Billing,Other,1
+2025-08,Billing,Product Enquiry,1
+2025-08,Billing,Returns & Refunds,8
+2025-08,Chat Frontline,Account & Login,15
+2025-08,Chat Frontline,App & Firmware,18
+2025-08,Chat Frontline,Audio Quality,18
+2025-08,Chat Frontline,Billing & Payments,3
+2025-08,Chat Frontline,Charging & Battery,31
+2025-08,Chat Frontline,Connectivity,41
+2025-08,Chat Frontline,Delivery & Shipping,4
+2025-08,Chat Frontline,Other,26
+2025-08,Chat Frontline,Product Enquiry,20
+2025-08,Chat Frontline,Warranty & Repair,4
+2025-08,Email Frontline,Account & Login,9
+2025-08,Email Frontline,App & Firmware,13
+2025-08,Email Frontline,Audio Quality,12
+2025-08,Email Frontline,Billing & Payments,4
+2025-08,Email Frontline,Charging & Battery,12
+2025-08,Email Frontline,Connectivity,9
+2025-08,Email Frontline,Delivery & Shipping,6
+2025-08,Email Frontline,Other,10
+2025-08,Email Frontline,Product Enquiry,11
+2025-08,Email Frontline,Warranty & Repair,1
+2025-08,Escalations & Warranty,Charging & Battery,2
+2025-08,Escalations & Warranty,Delivery & Shipping,1
+2025-08,Escalations & Warranty,Warranty & Repair,22
+2025-08,Logistics,Delivery & Shipping,114
+2025-08,Logistics,Other,7
+2025-08,Logistics,Returns & Refunds,1
+2025-08,Returns Desk,Delivery & Shipping,7
+2025-08,Returns Desk,Returns & Refunds,68
+2025-08,Voice Frontline,Account & Login,3
+2025-08,Voice Frontline,App & Firmware,8
+2025-08,Voice Frontline,Audio Quality,5
+2025-08,Voice Frontline,Billing & Payments,1
+2025-08,Voice Frontline,Charging & Battery,9
+2025-08,Voice Frontline,Connectivity,9
+2025-08,Voice Frontline,Delivery & Shipping,1
+2025-08,Voice Frontline,Other,6
+2025-08,Voice Frontline,Product Enquiry,1
+2025-08,Voice Frontline,Warranty & Repair,1
+2025-09,Billing,Account & Login,1
+2025-09,Billing,Billing & Payments,128
+2025-09,Billing,Delivery & Shipping,4
+2025-09,Billing,Other,2
+2025-09,Billing,Returns & Refunds,8
+2025-09,Chat Frontline,Account & Login,10
+2025-09,Chat Frontline,App & Firmware,20
+2025-09,Chat Frontline,Audio Quality,7
+2025-09,Chat Frontline,Billing & Payments,6
+2025-09,Chat Frontline,Charging & Battery,28
+2025-09,Chat Frontline,Connectivity,30
+2025-09,Chat Frontline,Delivery & Shipping,12
+2025-09,Chat Frontline,Other,16
+2025-09,Chat Frontline,Product Enquiry,31
+2025-09,Chat Frontline,Warranty & Repair,1
+2025-09,Email Frontline,Account & Login,14
+2025-09,Email Frontline,App & Firmware,16
+2025-09,Email Frontline,Audio Quality,15
+2025-09,Email Frontline,Billing & Payments,7
+2025-09,Email Frontline,Charging & Battery,11
+2025-09,Email Frontline,Connectivity,18
+2025-09,Email Frontline,Delivery & Shipping,6
+2025-09,Email Frontline,Other,10
+2025-09,Email Frontline,Product Enquiry,12
+2025-09,Email Frontline,Warranty & Repair,1
+2025-09,Escalations & Warranty,Charging & Battery,3
+2025-09,Escalations & Warranty,Delivery & Shipping,2
+2025-09,Escalations & Warranty,Warranty & Repair,23
+2025-09,Logistics,Delivery & Shipping,95
+2025-09,Logistics,Other,5
+2025-09,Logistics,Returns & Refunds,3
+2025-09,Returns Desk,Delivery & Shipping,8
+2025-09,Returns Desk,Returns & Refunds,62
+2025-09,Voice Frontline,Account & Login,4
+2025-09,Voice Frontline,App & Firmware,8
+2025-09,Voice Frontline,Audio Quality,7
+2025-09,Voice Frontline,Billing & Payments,2
+2025-09,Voice Frontline,Charging & Battery,6
+2025-09,Voice Frontline,Connectivity,12
+2025-09,Voice Frontline,Delivery & Shipping,3
+2025-09,Voice Frontline,Other,4
+2025-09,Voice Frontline,Product Enquiry,8
+2025-09,Voice Frontline,Warranty & Repair,2
+2025-10,Billing,Account & Login,3
+2025-10,Billing,Billing & Payments,181
+2025-10,Billing,Delivery & Shipping,6
+2025-10,Billing,Other,2
+2025-10,Billing,Returns & Refunds,6
+2025-10,Chat Frontline,Account & Login,14
+2025-10,Chat Frontline,App & Firmware,32
+2025-10,Chat Frontline,Audio Quality,19
+2025-10,Chat Frontline,Billing & Payments,10
+2025-10,Chat Frontline,Charging & Battery,26
+2025-10,Chat Frontline,Connectivity,37
+2025-10,Chat Frontline,Delivery & Shipping,9
+2025-10,Chat Frontline,Other,24
+2025-10,Chat Frontline,Product Enquiry,34
+2025-10,Chat Frontline,Warranty & Repair,2
+2025-10,Email Frontline,Account & Login,12
+2025-10,Email Frontline,App & Firmware,12
+2025-10,Email Frontline,Audio Quality,17
+2025-10,Email Frontline,Billing & Payments,6
+2025-10,Email Frontline,Charging & Battery,13
+2025-10,Email Frontline,Connectivity,19
+2025-10,Email Frontline,Delivery & Shipping,4
+2025-10,Email Frontline,Other,17
+2025-10,Email Frontline,Product Enquiry,19
+2025-10,Email Frontline,Warranty & Repair,1
+2025-10,Escalations & Warranty,Audio Quality,4
+2025-10,Escalations & Warranty,Charging & Battery,2
+2025-10,Escalations & Warranty,Delivery & Shipping,2
+2025-10,Escalations & Warranty,Warranty & Repair,35
+2025-10,Logistics,Delivery & Shipping,134
+2025-10,Logistics,Other,6
+2025-10,Logistics,Returns & Refunds,8
+2025-10,Returns Desk,Delivery & Shipping,3
+2025-10,Returns Desk,Returns & Refunds,81
+2025-10,Returns Desk,Warranty & Repair,1
+2025-10,Voice Frontline,App & Firmware,5
+2025-10,Voice Frontline,Audio Quality,9
+2025-10,Voice Frontline,Billing & Payments,2
+2025-10,Voice Frontline,Charging & Battery,2
+2025-10,Voice Frontline,Connectivity,6
+2025-10,Voice Frontline,Delivery & Shipping,3
+2025-10,Voice Frontline,Other,7
+2025-10,Voice Frontline,Product Enquiry,10
+2025-10,Voice Frontline,Warranty & Repair,2
+2025-11,Billing,Billing & Payments,194
+2025-11,Billing,Delivery & Shipping,8
+2025-11,Billing,Other,5
+2025-11,Billing,Returns & Refunds,12
+2025-11,Chat Frontline,Account & Login,18
+2025-11,Chat Frontline,App & Firmware,20
+2025-11,Chat Frontline,Audio Quality,33
+2025-11,Chat Frontline,Billing & Payments,10
+2025-11,Chat Frontline,Charging & Battery,30
+2025-11,Chat Frontline,Connectivity,46
+2025-11,Chat Frontline,Delivery & Shipping,9
+2025-11,Chat Frontline,Other,45
+2025-11,Chat Frontline,Product Enquiry,33
+2025-11,Chat Frontline,Warranty & Repair,5
+2025-11,Email Frontline,Account & Login,9
+2025-11,Email Frontline,App & Firmware,14
+2025-11,Email Frontline,Audio Quality,10
+2025-11,Email Frontline,Billing & Payments,8
+2025-11,Email Frontline,Charging & Battery,15
+2025-11,Email Frontline,Connectivity,24
+2025-11,Email Frontline,Delivery & Shipping,6
+2025-11,Email Frontline,Other,18
+2025-11,Email Frontline,Product Enquiry,25
+2025-11,Email Frontline,Warranty & Repair,2
+2025-11,Escalations & Warranty,Audio Quality,2
+2025-11,Escalations & Warranty,Delivery & Shipping,1
+2025-11,Escalations & Warranty,Warranty & Repair,39
+2025-11,Logistics,Delivery & Shipping,145
+2025-11,Logistics,Other,4
+2025-11,Logistics,Returns & Refunds,8
+2025-11,Returns Desk,Delivery & Shipping,6
+2025-11,Returns Desk,Returns & Refunds,75
+2025-11,Returns Desk,Warranty & Repair,1
+2025-11,Voice Frontline,Account & Login,5
+2025-11,Voice Frontline,App & Firmware,7
+2025-11,Voice Frontline,Audio Quality,4
+2025-11,Voice Frontline,Billing & Payments,5
+2025-11,Voice Frontline,Charging & Battery,12
+2025-11,Voice Frontline,Connectivity,13
+2025-11,Voice Frontline,Delivery & Shipping,3
+2025-11,Voice Frontline,Other,8
+2025-11,Voice Frontline,Product Enquiry,15
+2025-12,Billing,Account & Login,1
+2025-12,Billing,Billing & Payments,152
+2025-12,Billing,Delivery & Shipping,6
+2025-12,Billing,Other,3
+2025-12,Billing,Product Enquiry,1
+2025-12,Billing,Returns & Refunds,7
+2025-12,Chat Frontline,Account & Login,16
+2025-12,Chat Frontline,App & Firmware,32
+2025-12,Chat Frontline,Audio Quality,29
+2025-12,Chat Frontline,Billing & Payments,6
+2025-12,Chat Frontline,Charging & Battery,36
+2025-12,Chat Frontline,Connectivity,42
+2025-12,Chat Frontline,Delivery & Shipping,14
+2025-12,Chat Frontline,Other,26
+2025-12,Chat Frontline,Product Enquiry,18
+2025-12,Chat Frontline,Warranty & Repair,1
+2025-12,Email Frontline,Account & Login,13
+2025-12,Email Frontline,App & Firmware,18
+2025-12,Email Frontline,Audio Quality,21
+2025-12,Email Frontline,Billing & Payments,3
+2025-12,Email Frontline,Charging & Battery,26
+2025-12,Email Frontline,Connectivity,31
+2025-12,Email Frontline,Delivery & Shipping,8
+2025-12,Email Frontline,Other,21
+2025-12,Email Frontline,Product Enquiry,21
+2025-12,Email Frontline,Warranty & Repair,4
+2025-12,Escalations & Warranty,Audio Quality,1
+2025-12,Escalations & Warranty,Charging & Battery,1
+2025-12,Escalations & Warranty,Delivery & Shipping,1
+2025-12,Escalations & Warranty,Warranty & Repair,37
+2025-12,Logistics,Delivery & Shipping,122
+2025-12,Logistics,Other,8
+2025-12,Logistics,Returns & Refunds,6
+2025-12,Returns Desk,Delivery & Shipping,5
+2025-12,Returns Desk,Returns & Refunds,77
+2025-12,Voice Frontline,Account & Login,3
+2025-12,Voice Frontline,App & Firmware,7
+2025-12,Voice Frontline,Audio Quality,10
+2025-12,Voice Frontline,Billing & Payments,2
+2025-12,Voice Frontline,Charging & Battery,8
+2025-12,Voice Frontline,Connectivity,14
+2025-12,Voice Frontline,Delivery & Shipping,4
+2025-12,Voice Frontline,Other,2
+2025-12,Voice Frontline,Product Enquiry,5
+2026-01,Billing,Billing & Payments,129
+2026-01,Billing,Delivery & Shipping,5
+2026-01,Billing,Other,5
+2026-01,Billing,Returns & Refunds,4
+2026-01,Chat Frontline,Account & Login,16
+2026-01,Chat Frontline,App & Firmware,24
+2026-01,Chat Frontline,Audio Quality,19
+2026-01,Chat Frontline,Billing & Payments,5
+2026-01,Chat Frontline,Charging & Battery,46
+2026-01,Chat Frontline,Connectivity,56
+2026-01,Chat Frontline,Delivery & Shipping,7
+2026-01,Chat Frontline,Other,26
+2026-01,Chat Frontline,Product Enquiry,32
+2026-01,Chat Frontline,Warranty & Repair,2
+2026-01,Email Frontline,Account & Login,7
+2026-01,Email Frontline,App & Firmware,9
+2026-01,Email Frontline,Audio Quality,19
+2026-01,Email Frontline,Billing & Payments,8
+2026-01,Email Frontline,Charging & Battery,18
+2026-01,Email Frontline,Connectivity,34
+2026-01,Email Frontline,Delivery & Shipping,2
+2026-01,Email Frontline,Other,19
+2026-01,Email Frontline,Product Enquiry,16
+2026-01,Escalations & Warranty,Audio Quality,2
+2026-01,Escalations & Warranty,Charging & Battery,3
+2026-01,Escalations & Warranty,Delivery & Shipping,1
+2026-01,Escalations & Warranty,Warranty & Repair,35
+2026-01,Logistics,Delivery & Shipping,112
+2026-01,Logistics,Other,4
+2026-01,Logistics,Returns & Refunds,5
+2026-01,Returns Desk,Delivery & Shipping,2
+2026-01,Returns Desk,Returns & Refunds,68
+2026-01,Voice Frontline,Account & Login,7
+2026-01,Voice Frontline,App & Firmware,5
+2026-01,Voice Frontline,Audio Quality,12
+2026-01,Voice Frontline,Billing & Payments,2
+2026-01,Voice Frontline,Charging & Battery,16
+2026-01,Voice Frontline,Connectivity,15
+2026-01,Voice Frontline,Other,7
+2026-01,Voice Frontline,Product Enquiry,8
+2026-02,Billing,Account & Login,1
+2026-02,Billing,Billing & Payments,134
+2026-02,Billing,Delivery & Shipping,3
+2026-02,Billing,Other,2
+2026-02,Billing,Returns & Refunds,8
+2026-02,Chat Frontline,Account & Login,18
+2026-02,Chat Frontline,App & Firmware,34
+2026-02,Chat Frontline,Audio Quality,21
+2026-02,Chat Frontline,Billing & Payments,9
+2026-02,Chat Frontline,Charging & Battery,25
+2026-02,Chat Frontline,Connectivity,40
+2026-02,Chat Frontline,Delivery & Shipping,8
+2026-02,Chat Frontline,Other,19
+2026-02,Chat Frontline,Product Enquiry,22
+2026-02,Chat Frontline,Warranty & Repair,2
+2026-02,Email Frontline,Account & Login,8
+2026-02,Email Frontline,App & Firmware,15
+2026-02,Email Frontline,Audio Quality,13
+2026-02,Email Frontline,Billing & Payments,6
+2026-02,Email Frontline,Charging & Battery,16
+2026-02,Email Frontline,Connectivity,30
+2026-02,Email Frontline,Delivery & Shipping,2
+2026-02,Email Frontline,Other,19
+2026-02,Email Frontline,Product Enquiry,15
+2026-02,Email Frontline,Warranty & Repair,1
+2026-02,Escalations & Warranty,Audio Quality,1
+2026-02,Escalations & Warranty,Charging & Battery,2
+2026-02,Escalations & Warranty,Delivery & Shipping,2
+2026-02,Escalations & Warranty,Warranty & Repair,29
+2026-02,Logistics,Delivery & Shipping,105
+2026-02,Logistics,Other,8
+2026-02,Logistics,Returns & Refunds,4
+2026-02,Returns Desk,Delivery & Shipping,3
+2026-02,Returns Desk,Returns & Refunds,54
+2026-02,Returns Desk,Warranty & Repair,1
+2026-02,Voice Frontline,Account & Login,7
+2026-02,Voice Frontline,App & Firmware,6
+2026-02,Voice Frontline,Audio Quality,8
+2026-02,Voice Frontline,Billing & Payments,2
+2026-02,Voice Frontline,Charging & Battery,7
+2026-02,Voice Frontline,Connectivity,11
+2026-02,Voice Frontline,Other,9
+2026-02,Voice Frontline,Product Enquiry,3
+2026-03,Billing,Billing & Payments,147
+2026-03,Billing,Delivery & Shipping,3
+2026-03,Billing,Other,2
+2026-03,Billing,Product Enquiry,1
+2026-03,Billing,Returns & Refunds,6
+2026-03,Chat Frontline,Account & Login,22
+2026-03,Chat Frontline,App & Firmware,22
+2026-03,Chat Frontline,Audio Quality,36
+2026-03,Chat Frontline,Billing & Payments,9
+2026-03,Chat Frontline,Charging & Battery,31
+2026-03,Chat Frontline,Connectivity,39
+2026-03,Chat Frontline,Delivery & Shipping,15
+2026-03,Chat Frontline,Other,17
+2026-03,Chat Frontline,Product Enquiry,18
+2026-03,Chat Frontline,Warranty & Repair,5
+2026-03,Email Frontline,Account & Login,7
+2026-03,Email Frontline,App & Firmware,13
+2026-03,Email Frontline,Audio Quality,17
+2026-03,Email Frontline,Billing & Payments,5
+2026-03,Email Frontline,Charging & Battery,23
+2026-03,Email Frontline,Connectivity,22
+2026-03,Email Frontline,Delivery & Shipping,6
+2026-03,Email Frontline,Other,16
+2026-03,Email Frontline,Product Enquiry,14
+2026-03,Email Frontline,Warranty & Repair,2
+2026-03,Escalations & Warranty,Audio Quality,3
+2026-03,Escalations & Warranty,Charging & Battery,4
+2026-03,Escalations & Warranty,Warranty & Repair,26
+2026-03,Logistics,Delivery & Shipping,110
+2026-03,Logistics,Other,6
+2026-03,Logistics,Returns & Refunds,9
+2026-03,Returns Desk,Delivery & Shipping,6
+2026-03,Returns Desk,Returns & Refunds,65
+2026-03,Voice Frontline,Account & Login,3
+2026-03,Voice Frontline,App & Firmware,6
+2026-03,Voice Frontline,Audio Quality,5
+2026-03,Voice Frontline,Billing & Payments,1
+2026-03,Voice Frontline,Charging & Battery,10
+2026-03,Voice Frontline,Connectivity,18
+2026-03,Voice Frontline,Delivery & Shipping,2
+2026-03,Voice Frontline,Other,5
+2026-03,Voice Frontline,Product Enquiry,3
+2026-04,Billing,Account & Login,1
+2026-04,Billing,Billing & Payments,160
+2026-04,Billing,Delivery & Shipping,7
+2026-04,Billing,Other,3
+2026-04,Billing,Returns & Refunds,7
+2026-04,Chat Frontline,Account & Login,15
+2026-04,Chat Frontline,App & Firmware,35
+2026-04,Chat Frontline,Audio Quality,25
+2026-04,Chat Frontline,Billing & Payments,8
+2026-04,Chat Frontline,Charging & Battery,36
+2026-04,Chat Frontline,Connectivity,55
+2026-04,Chat Frontline,Delivery & Shipping,7
+2026-04,Chat Frontline,Other,28
+2026-04,Chat Frontline,Product Enquiry,21
+2026-04,Chat Frontline,Warranty & Repair,7
+2026-04,Email Frontline,Account & Login,10
+2026-04,Email Frontline,App & Firmware,17
+2026-04,Email Frontline,Audio Quality,14
+2026-04,Email Frontline,Billing & Payments,2
+2026-04,Email Frontline,Charging & Battery,25
+2026-04,Email Frontline,Connectivity,28
+2026-04,Email Frontline,Delivery & Shipping,1
+2026-04,Email Frontline,Other,17
+2026-04,Email Frontline,Product Enquiry,12
+2026-04,Escalations & Warranty,Audio Quality,5
+2026-04,Escalations & Warranty,Charging & Battery,7
+2026-04,Escalations & Warranty,Warranty & Repair,26
+2026-04,Logistics,Delivery & Shipping,108
+2026-04,Logistics,Other,10
+2026-04,Logistics,Returns & Refunds,3
+2026-04,Logistics,Warranty & Repair,1
+2026-04,Returns Desk,Delivery & Shipping,2
+2026-04,Returns Desk,Returns & Refunds,58
+2026-04,Voice Frontline,Account & Login,5
+2026-04,Voice Frontline,App & Firmware,6
+2026-04,Voice Frontline,Audio Quality,4
+2026-04,Voice Frontline,Billing & Payments,4
+2026-04,Voice Frontline,Charging & Battery,13
+2026-04,Voice Frontline,Connectivity,17
+2026-04,Voice Frontline,Delivery & Shipping,2
+2026-04,Voice Frontline,Other,10
+2026-04,Voice Frontline,Product Enquiry,9
+2026-04,Voice Frontline,Warranty & Repair,1
+2026-05,Billing,Billing & Payments,127
+2026-05,Billing,Delivery & Shipping,2
+2026-05,Billing,Other,1
+2026-05,Billing,Returns & Refunds,14
+2026-05,Chat Frontline,Account & Login,16
+2026-05,Chat Frontline,App & Firmware,24
+2026-05,Chat Frontline,Audio Quality,31
+2026-05,Chat Frontline,Billing & Payments,11
+2026-05,Chat Frontline,Charging & Battery,27
+2026-05,Chat Frontline,Connectivity,44
+2026-05,Chat Frontline,Delivery & Shipping,7
+2026-05,Chat Frontline,Other,25
+2026-05,Chat Frontline,Product Enquiry,17
+2026-05,Chat Frontline,Warranty & Repair,4
+2026-05,Email Frontline,Account & Login,11
+2026-05,Email Frontline,App & Firmware,12
+2026-05,Email Frontline,Audio Quality,8
+2026-05,Email Frontline,Billing & Payments,6
+2026-05,Email Frontline,Charging & Battery,20
+2026-05,Email Frontline,Connectivity,22
+2026-05,Email Frontline,Delivery & Shipping,10
+2026-05,Email Frontline,Other,10
+2026-05,Email Frontline,Product Enquiry,13
+2026-05,Email Frontline,Warranty & Repair,2
+2026-05,Escalations & Warranty,Audio Quality,3
+2026-05,Escalations & Warranty,Charging & Battery,2
+2026-05,Escalations & Warranty,Delivery & Shipping,3
+2026-05,Escalations & Warranty,Warranty & Repair,26
+2026-05,Logistics,Delivery & Shipping,118
+2026-05,Logistics,Other,8
+2026-05,Logistics,Returns & Refunds,6
+2026-05,Returns Desk,Delivery & Shipping,2
+2026-05,Returns Desk,Returns & Refunds,50
+2026-05,Returns Desk,Warranty & Repair,1
+2026-05,Voice Frontline,Account & Login,5
+2026-05,Voice Frontline,App & Firmware,9
+2026-05,Voice Frontline,Audio Quality,8
+2026-05,Voice Frontline,Billing & Payments,2
+2026-05,Voice Frontline,Charging & Battery,18
+2026-05,Voice Frontline,Connectivity,10
+2026-05,Voice Frontline,Delivery & Shipping,4
+2026-05,Voice Frontline,Other,7
+2026-05,Voice Frontline,Product Enquiry,10
+2026-06,Billing,Billing & Payments,114
+2026-06,Billing,Delivery & Shipping,1
+2026-06,Billing,Other,3
+2026-06,Billing,Returns & Refunds,10
+2026-06,Chat Frontline,Account & Login,19
+2026-06,Chat Frontline,App & Firmware,21
+2026-06,Chat Frontline,Audio Quality,27
+2026-06,Chat Frontline,Billing & Payments,4
+2026-06,Chat Frontline,Charging & Battery,30
+2026-06,Chat Frontline,Connectivity,45
+2026-06,Chat Frontline,Delivery & Shipping,7
+2026-06,Chat Frontline,Other,21
+2026-06,Chat Frontline,Product Enquiry,24
+2026-06,Chat Frontline,Warranty & Repair,7
+2026-06,Email Frontline,Account & Login,8
+2026-06,Email Frontline,App & Firmware,14
+2026-06,Email Frontline,Audio Quality,22
+2026-06,Email Frontline,Billing & Payments,5
+2026-06,Email Frontline,Charging & Battery,31
+2026-06,Email Frontline,Connectivity,18
+2026-06,Email Frontline,Delivery & Shipping,4
+2026-06,Email Frontline,Other,14
+2026-06,Email Frontline,Product Enquiry,13
+2026-06,Email Frontline,Warranty & Repair,2
+2026-06,Escalations & Warranty,Audio Quality,3
+2026-06,Escalations & Warranty,Charging & Battery,3
+2026-06,Escalations & Warranty,Delivery & Shipping,2
+2026-06,Escalations & Warranty,Warranty & Repair,34
+2026-06,Logistics,Delivery & Shipping,111
+2026-06,Logistics,Other,5
+2026-06,Logistics,Returns & Refunds,3
+2026-06,Returns Desk,Delivery & Shipping,4
+2026-06,Returns Desk,Returns & Refunds,69
+2026-06,Voice Frontline,Account & Login,9
+2026-06,Voice Frontline,App & Firmware,9
+2026-06,Voice Frontline,Audio Quality,9
+2026-06,Voice Frontline,Billing & Payments,2
+2026-06,Voice Frontline,Charging & Battery,12
+2026-06,Voice Frontline,Connectivity,19
+2026-06,Voice Frontline,Delivery & Shipping,1
+2026-06,Voice Frontline,Other,6
+2026-06,Voice Frontline,Product Enquiry,10
+2026-06,Voice Frontline,Warranty & Repair,1

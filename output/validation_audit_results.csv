@@ -1,0 +1,101 @@
+ticket_id,reviewed_category,ai_category,correct
+TK-252598,App & Firmware,App & Firmware,True
+TK-251198,Account & Login,Account & Login,True
+TK-254073,Audio Quality,Audio Quality,True
+TK-246046,Billing & Payments,Billing & Payments,True
+TK-245558,Returns & Refunds,Other,False
+TK-245071,Charging & Battery,Charging & Battery,True
+TK-247996,Connectivity,Connectivity,True
+TK-245340,Returns & Refunds,Returns & Refunds,True
+TK-240536,Delivery & Shipping,Other,False
+TK-250645,Connectivity,Connectivity,True
+TK-244830,Product Enquiry,Product Enquiry,True
+TK-253883,App & Firmware,App & Firmware,True
+TK-244678,Connectivity,Connectivity,True
+TK-247028,Billing & Payments,Billing & Payments,True
+TK-245503,Billing & Payments,Billing & Payments,True
+TK-254183,Audio Quality,Audio Quality,True
+TK-252745,Charging & Battery,Charging & Battery,True
+TK-252883,App & Firmware,App & Firmware,True
+TK-254254,Billing & Payments,Billing & Payments,True
+TK-250386,App & Firmware,App & Firmware,True
+TK-242487,Returns & Refunds,Returns & Refunds,True
+TK-246379,App & Firmware,App & Firmware,True
+TK-253812,Charging & Battery,Charging & Battery,True
+TK-245331,Billing & Payments,Billing & Payments,True
+TK-249192,Product Enquiry,Product Enquiry,True
+TK-247886,Delivery & Shipping,Delivery & Shipping,True
+TK-241356,Returns & Refunds,Returns & Refunds,True
+TK-249103,Audio Quality,Connectivity,False
+TK-245891,Returns & Refunds,Delivery & Shipping,False
+TK-249880,Billing & Payments,Account & Login,False
+TK-248975,Returns & Refunds,Returns & Refunds,True
+TK-246069,Delivery & Shipping,Delivery & Shipping,True
+TK-247145,Delivery & Shipping,Delivery & Shipping,True
+TK-240928,Delivery & Shipping,Other,False
+TK-244225,Billing & Payments,Billing & Payments,True
+TK-242278,Delivery & Shipping,Delivery & Shipping,True
+TK-247395,Delivery & Shipping,Delivery & Shipping,True
+TK-244578,Delivery & Shipping,Other,False
+TK-245518,Billing & Payments,Billing & Payments,True
+TK-247538,Audio Quality,Audio Quality,True
+TK-243792,Connectivity,Connectivity,True
+TK-247129,Delivery & Shipping,Billing & Payments,False
+TK-248012,Delivery & Shipping,Delivery & Shipping,True
+TK-246085,Audio Quality,Audio Quality,True
+TK-250473,Billing & Payments,Billing & Payments,True
+TK-254157,Charging & Battery,Charging & Battery,True
+TK-251280,Delivery & Shipping,Other,False
+TK-246054,Audio Quality,Audio Quality,True
+TK-248965,Account & Login,Account & Login,True
+TK-246916,Connectivity,Connectivity,True
+TK-248753,Returns & Refunds,Returns & Refunds,True
+TK-254417,Product Enquiry,Product Enquiry,True
+TK-252551,Billing & Payments,Billing & Payments,True
+TK-242848,Billing & Payments,Billing & Payments,True
+TK-245290,Connectivity,Connectivity,True
+TK-251836,Audio Quality,Audio Quality,True
+TK-246929,Billing & Payments,Billing & Payments,True
+TK-240632,Returns & Refunds,Other,False
+TK-242627,Product Enquiry,Product Enquiry,True
+TK-241612,Delivery & Shipping,Other,False
+TK-253484,App & Firmware,App & Firmware,True
+TK-243274,Charging & Battery,Charging & Battery,True
+TK-250843,Billing & Payments,Billing & Payments,True
+TK-245328,Delivery & Shipping,Delivery & Shipping,True
+TK-251752,App & Firmware,App & Firmware,True
+TK-247965,Billing & Payments,Billing & Payments,True
+TK-248305,Delivery & Shipping,Delivery & Shipping,True
+TK-247608,Delivery & Shipping,Billing & Payments,False
+TK-242483,Account & Login,Account & Login,True
+TK-240978,Account & Login,Account & Login,True
+TK-250109,Account & Login,Account & Login,True
+TK-253311,Connectivity,Connectivity,True
+TK-244834,Connectivity,Connectivity,True
+TK-253957,Product Enquiry,Product Enquiry,True
+TK-242768,Connectivity,Connectivity,True
+TK-240974,Audio Quality,Audio Quality,True
+TK-246771,Billing & Payments,Billing & Payments,True
+TK-251229,Returns & Refunds,Returns & Refunds,True
+TK-251299,Returns & Refunds,Other,False
+TK-248765,App & Firmware,App & Firmware,True
+TK-245609,Charging & Battery,Charging & Battery,True
+TK-245170,Audio Quality,Audio Quality,True
+TK-240356,Audio Quality,Audio Quality,True
+TK-250657,Returns & Refunds,Returns & Refunds,True
+TK-250156,Returns & Refunds,Returns & Refunds,True
+TK-247147,Connectivity,Connectivity,True
+TK-254622,Product Enquiry,Product Enquiry,True
+TK-249397,Account & Login,Account & Login,True
+TK-252183,Delivery & Shipping,Delivery & Shipping,True
+TK-242236,Charging & Battery,Charging & Battery,True
+TK-244843,Delivery & Shipping,Delivery & Shipping,True
+TK-248096,App & Firmware,App & Firmware,True
+TK-252442,Returns & Refunds,Returns & Refunds,True
+TK-241117,Billing & Payments,Account & Login,False
+TK-245973,App & Firmware,App & Firmware,True
+TK-244775,Billing & Payments,Billing & Payments,True
+TK-242797,Billing & Payments,Billing & Payments,True
+TK-253053,Account & Login,Account & Login,True
+TK-244326,App & Firmware,App & Firmware,True
+TK-250799,Audio Quality,Audio Quality,True

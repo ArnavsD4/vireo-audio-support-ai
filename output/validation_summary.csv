@@ -1,0 +1,3 @@
+metric,value,sample_size
+Existing-tag holdout agreement,0.836839845427222,2329
+Manual audit agreement,0.86,100
