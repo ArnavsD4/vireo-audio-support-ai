@@ -139,5 +139,7 @@ No paid LLM API or external inference service is required.
 
 From the project root:
 
+### Create the virtual environment
+
 ```bash
-python app.py --tickets tickets.csv --agents agents.csv --validation validation_review_100_completed_final.csv --out output
+python -m venv .venv
